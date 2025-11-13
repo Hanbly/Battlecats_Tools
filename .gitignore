@@ -1,0 +1,14 @@
+.idea/
+*.txt
+*.ico
+*.zip
+
+.configs/
+.data/
+.debug_images/
+.build/
+*.spec
+.dist/
+
+**/node_modules/
+**/_internal/

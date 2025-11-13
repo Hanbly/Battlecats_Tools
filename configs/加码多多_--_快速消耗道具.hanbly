@@ -1,0 +1,9 @@
+{
+    "server": "台服",
+    "max_loops": "1000",
+    "refresh_power_enabled": true,
+    "use_power_recover_enabled": false,
+    "position_order": [
+        1
+    ]
+}

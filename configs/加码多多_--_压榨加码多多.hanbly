@@ -1,0 +1,7 @@
+{
+    "server": "台服",
+    "max_loops": "1000",
+    "window_title": "雷电模拟器",
+    "kill_members_enabled": false,
+    "run_mod": "兼容"
+}

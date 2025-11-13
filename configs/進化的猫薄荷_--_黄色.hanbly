@@ -1,0 +1,20 @@
+{
+    "server": "台服",
+    "max_loops": "0",
+    "refresh_power_enabled": true,
+    "use_power_recover_enabled": false,
+    "change_timezone_enabled": true,
+    "enter_EXpart_enabled": true,
+    "position_order": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        0
+    ]
+}

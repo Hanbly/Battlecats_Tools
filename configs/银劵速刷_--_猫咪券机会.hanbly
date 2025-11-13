@@ -1,0 +1,13 @@
+{
+    "server": "台服",
+    "max_loops": "0",
+    "refresh_power_enabled": true,
+    "use_power_recover_enabled": false,
+    "change_timezone_enabled": true,
+    "long_roll_times": "2",
+    "position_order": [
+        6,
+        10,
+        1
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "server": "日服",
+    "max_loops": "0",
+    "refresh_power_enabled": true,
+    "use_power_recover_enabled": false,
+    "refresh_zombie_enabled": true,
+    "max_times": "3",
+    "position_order": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        0
+    ]
+}
